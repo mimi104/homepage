@@ -24,7 +24,8 @@ header {
     border-radius: 5px;
 }
 
-#horizon {
+hr {
     margin: 50px 80px 50px 80px;
-    color: #FAAA8D;
+    background-color: #FAAA8D;
+    border: 5px
 }
