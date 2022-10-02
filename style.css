@@ -1,0 +1,30 @@
+body {
+    background-color: #201E1F;
+    color: #FEEFD0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 27px;
+}
+
+header {
+    background-color: #FAAA8D;
+    font-family: 'Roboto Slab', serif;
+    font-size: 24px;
+    font-weight: 600;
+    position: fixed;
+}
+
+.introduce {
+    padding-top: 120px;
+    text-align: center;
+    text-shadow: 2px 2px 7px red;
+}
+
+#ima {
+    border: thick solid #FEEFD0;
+    border-radius: 5px;
+}
+
+#horizon {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
